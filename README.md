@@ -1,3 +1,3 @@
 # newsgrid
-Sample website
-just used it
+Sample website, maybe you like that website
+
